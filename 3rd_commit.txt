@@ -1,2 +1,1 @@
-some text in 3rd time (new text added) 
-push from master
+3rd file merged
